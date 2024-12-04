@@ -56,14 +56,6 @@ Me chamo Henrique Santos! tenho 21 anos e sou natural de São Paulo. Sou Especia
 />
 <img 
     align="left" 
-    alt="Git" 
-    title="Git"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
-<img 
-    align="left" 
     alt="Python" 
     title="Python"
     width="30px" 
