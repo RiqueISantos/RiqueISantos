@@ -88,7 +88,7 @@ Me chamo Henrique Santos! tenho 21 anos e sou natural de São Paulo. Sou Especia
 <img 
       align="left" 
       alt="GitHub Stats" 
-      height="160" 
+      height="150" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=RiqueISantos&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
