@@ -2,7 +2,7 @@
 
 **`Especialista em Relacionamento Bilíngue II - Inglês (Marketing Digital/Redes Sociais)`**
 
-Me chamo Henrique Santos! tenho 21 anos e sou natural de São Paulo. Sou Especialista em Relacionamento Bilíngue II - Inglês (Marketing Digital/Redes Sociais) e estudante de Sistemas de Informação na Faculdade Impacta, apaixonado por solucionar problemas e criar soluções inovadoras através da tecnologia, meu GitHub é inteiramente focado em conceitos sobre estrutura de dados e algoritmos.
+Me chamo Henrique Santos! tenho 22 anos e sou natural de São Paulo. Sou Especialista em Relacionamento Bilíngue II - Inglês (Marketing Digital/Redes Sociais) e estudante de Sistemas de Informação na Faculdade Impacta, apaixonado por solucionar problemas e criar soluções inovadoras através da tecnologia, meu GitHub é inteiramente focado em conceitos sobre estrutura de dados e algoritmos.
 
 ### 🤖 Linguagens e Tecnologias
 
