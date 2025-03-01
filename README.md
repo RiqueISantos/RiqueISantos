@@ -67,7 +67,7 @@ Me chamo Henrique Santos! tenho 22 anos e sou natural de São Paulo. Sou Especia
     align="left" 
     alt="Java" 
     title="Java"
-    width="30px" 
+    width="40px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg"
 />
