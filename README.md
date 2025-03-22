@@ -5,7 +5,9 @@ Olá, sou Henrique! Sou Especialista em Relacionamento Bilíngue II - Inglês (M
 ## Sobre mim
 
 💼 Atualmente, trabalho como Especialista em Relacionamento Bilíngue II - Inglês (Marketing Digital/Redes Sociais), gerencio contas de anúncios da Meta para clientes, focando em estratégias de marketing digital e otimização de campanhas.
+
 🌱 Estou sempre aprendendo e aprimorando minhas habilidades em áreas como desenvolvimento web, computação em nuvem e ciência de dados.
+
 🎓 Estou estudando Sistemas de Informação na Impacta, onde tenho a oportunidade de explorar conceitos avançados e participar de projetos desafiadores.
 
 ## Habilidades Técnicas
