@@ -15,10 +15,8 @@ Olá, sou Henrique! Sou Especialista em Relacionamento Bilíngue II - Inglês (M
 Aqui estão algumas das tecnologias e ferramentas que eu domino:
 
 - 💻 **Programming Languages:** Java, Python, JavaScript
-- 🛠️ **Frameworks and Libraries:** Spring Boot, Tailwind Css, React.js
+- 🛠️ **Frameworks and Libraries:** Spring Boot, Tailwind Css
 - 🗃️ **Databases:** MySQL
-- 🔧 **DevOps Tools:** Docker
-- 📁 **Relational Databases:** MongoDB
 
 ## Entre em Contato
 
