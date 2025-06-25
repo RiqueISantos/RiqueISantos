@@ -1,6 +1,6 @@
 # Bem vindos ao meu portfólio! 👨‍💻
 
-Olá, sou Henrique! Sou Especialista em Relacionamento Bilíngue II - Inglês (Marketing Digital/Redes Sociais) e estudante de Sistemas de Informação na Impacta, apaixonado por resolver problemas e criar soluções inovadoras por meio da tecnologia. Meu GitHub é totalmente dedicado a algoritmos e conceitos computacionais.
+Olá! Sou Henrique Santos, estudante de Sistemas de Informação na Faculdade Impacta e entusiasta em desenvolvimento backend e engenharia de software. Sou apaixonado por resolver problemas reais através da tecnologia, com foco em boas práticas de código, arquitetura de software e projetos escaláveis.
 
 ## Sobre mim
 
@@ -16,7 +16,8 @@ Aqui estão algumas das tecnologias e ferramentas que eu domino:
 
 - 💻 **Programming Languages:** Java, Python, JavaScript
 - 🛠️ **Frameworks and Libraries:** Spring Boot, Tailwind Css
-- 🗃️ **Databases:** MySQL
+- 🗃️ **Databases:** MySQL, PostgreSQL
+- 🔧 **DevOps Tools:** Docker
 
 ## Entre em Contato
 
