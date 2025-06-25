@@ -6,7 +6,7 @@ Olá! Sou Henrique Santos, estudante de Sistemas de Informação na Faculdade Im
 
 💼 Atualmente, trabalho como Especialista em Relacionamento Bilíngue II - Inglês (Marketing Digital/Redes Sociais), gerencio contas de anúncios da Meta para clientes, focando em estratégias de marketing digital e otimização de campanhas.
 
-🌱 Estou sempre aprendendo e aprimorando minhas habilidades em áreas como desenvolvimento web, computação em nuvem e ciência de dados.
+🌱 Estou em transição de carreira para desenvolvimento de software, com projetos práticos que envolvem APIs REST, padrões de projeto, camadas de serviço e uso de frameworks modernos.
 
 🎓 Estou estudando Sistemas de Informação na Impacta, onde tenho a oportunidade de explorar conceitos avançados e participar de projetos desafiadores.
 
