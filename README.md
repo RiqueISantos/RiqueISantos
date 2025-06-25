@@ -1,27 +1,53 @@
-# Bem vindos ao meu portfólio! 👨‍💻
+<h2 align="left">Bem vindos ao meu portfólio! 👨‍💻</h2>
 
-Olá! Sou Henrique Santos, estudante de Sistemas de Informação na Faculdade Impacta e entusiasta em desenvolvimento backend e engenharia de software. Sou apaixonado por resolver problemas reais através da tecnologia, com foco em boas práticas de código, arquitetura de software e projetos escaláveis.
+###
 
-## Sobre mim
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=RiqueISantos&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=pt-br&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=RiqueISantos&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=false" height="150" alt="languages graph"  />
+</div>
 
-💼 Atualmente, trabalho como Especialista em Relacionamento Bilíngue II - Inglês (Marketing Digital/Redes Sociais), gerencio contas de anúncios da Meta para clientes, focando em estratégias de marketing digital e otimização de campanhas.
+###
 
-🌱 Estou em transição de carreira para desenvolvimento de software, com projetos práticos que envolvem APIs REST, padrões de projeto, camadas de serviço e uso de frameworks modernos.
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="30" alt="spring logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="figma logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
+</div>
 
-🎓 Estou estudando Sistemas de Informação na Impacta, onde tenho a oportunidade de explorar conceitos avançados e participar de projetos desafiadores.
+###
 
-## Habilidades Técnicas
+<div align="left">
+  <a href="riquesantosoliveira@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/henriquesantosoliveira/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+</div>
 
-Aqui estão algumas das tecnologias e ferramentas que eu domino:
+###
 
-- 💻 **Programming Languages:** Java, Python, JavaScript
-- 🛠️ **Frameworks and Libraries:** Spring Boot, Tailwind Css
-- 🗃️ **Databases:** MySQL, PostgreSQL
-- 🔧 **DevOps Tools:** Docker
+<br clear="both">
 
-## Entre em Contato
+<img src="https://raw.githubusercontent.com/RiqueISantos/RiqueISantos/output/snake.svg" alt="Snake animation" />
 
-Se você gostaria de saber mais sobre mim ou entrar em contato, pode me encontrar nas seguintes plataformas:
-
-- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/henriquesantosoliveira/)
-- [![Email](https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white)](mailto:riquesantosoliveira@gmail.com)
+###
