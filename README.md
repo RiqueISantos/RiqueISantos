@@ -13,7 +13,7 @@ Sou estudante de Bacharelado em Sistemas de Informação na Faculdade Impacta, c
     align="left" 
     alt="Java"
     title="Java" 
-    width="30px" 
+    width="50px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" 
 />
@@ -21,7 +21,7 @@ Sou estudante de Bacharelado em Sistemas de Informação na Faculdade Impacta, c
     align="left" 
     alt="Springboot"
     title="Springboot" 
-    width="30px" 
+    width="50px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" 
 />
@@ -29,7 +29,7 @@ Sou estudante de Bacharelado em Sistemas de Informação na Faculdade Impacta, c
     align="left" 
     alt="PostgreSql"
     title="PostgreSql" 
-    width="30px" 
+    width="50px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-plain-wordmark.svg"
 />
@@ -37,7 +37,7 @@ Sou estudante de Bacharelado em Sistemas de Informação na Faculdade Impacta, c
     align="left" 
     alt="Docker"
     title="Docker" 
-    width="30px" 
+    width="50px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" 
 />
@@ -45,7 +45,7 @@ Sou estudante de Bacharelado em Sistemas de Informação na Faculdade Impacta, c
     align="left" 
     alt="JavaScript" 
     title="JavaScript"
-    width="30px" 
+    width="50px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
 />
@@ -53,7 +53,7 @@ Sou estudante de Bacharelado em Sistemas de Informação na Faculdade Impacta, c
     align="left" 
     alt="HTML"
     title="HTML" 
-    width="30px" 
+    width="50px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
 />
@@ -61,7 +61,7 @@ Sou estudante de Bacharelado em Sistemas de Informação na Faculdade Impacta, c
     align="left" 
     alt="CSS" 
     title="CSS"
-    width="30px" 
+    width="50px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
 />
@@ -69,7 +69,7 @@ Sou estudante de Bacharelado em Sistemas de Informação na Faculdade Impacta, c
     align="left" 
     alt="Tailwind" 
     title="Tailwind"
-    width="30px" 
+    width="50px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" 
 />
@@ -77,7 +77,7 @@ Sou estudante de Bacharelado em Sistemas de Informação na Faculdade Impacta, c
     align="left" 
     alt="Git" 
     title="Git"
-    width="30px" 
+    width="50px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
@@ -85,7 +85,7 @@ Sou estudante de Bacharelado em Sistemas de Informação na Faculdade Impacta, c
     align="left" 
     alt="Python" 
     title="Python"
-    width="30px" 
+    width="50px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
