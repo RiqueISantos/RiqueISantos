@@ -90,6 +90,15 @@ Sou estudante de Bacharelado em Sistemas de Informação na Faculdade Impacta, c
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
 
+<img 
+    align="left" 
+    alt="Kotlin" 
+    title="Kotlin"
+    width="40px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" 
+/>
+
 <br/>
 <br/>
 
