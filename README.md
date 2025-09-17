@@ -99,6 +99,15 @@ Sou estudante de Bacharelado em Sistemas de Informação na Faculdade Impacta, c
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" 
 />
 
+<img 
+    align="left" 
+    alt="Mysql" 
+    title="Mysql"
+    width="40px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" 
+/>
+
 <br/>
 <br/>
 
