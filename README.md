@@ -108,6 +108,15 @@ Sou estudante de Bacharelado em Sistemas de Informação na Faculdade Impacta, c
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" 
 />
 
+<img 
+    align="left" 
+    alt="Dbeaver" 
+    title="Dbeaver"
+    width="40px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dbeaver/dbeaver-original.svg" 
+/>
+
 <br/>
 <br/>
 
