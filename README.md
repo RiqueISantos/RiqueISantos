@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Back-end`**
 
-Sou estudante de Bacharelado em Sistemas de Informação na Faculdade Impacta, com grande interesse em Engenharia de Software. Estou sempre em busca de novos aprendizados, desafios e experiências que me ajudem a evoluir como desenvolvedor e como profissional da área de tecnologia.
+Olá, sou o Henrique! Sou desenvolvedor backend e estudante de Sistemas de Informação na Faculdade Impacta, com grande interesse em Engenharia de Software. Estou sempre em busca de novos aprendizados, desafios e experiências que me ajudem a evoluir como desenvolvedor e como profissional da área de tecnologia.
 
 
 ---
